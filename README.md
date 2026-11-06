@@ -76,15 +76,15 @@ with this assistant?
 Private API keys, account passwords, internal corporate network IP addresses, unredacted corporate logs, credit union member financial data, or sensitive personally identifiable information (PII).
 
 ## 7. My 30/60/90-Day Career Plan
-**30 days:** [Action]
-**60 days:** [Action]
-**90 days:** [Action]
+**30 days:** Complete the CompTIA Security+ exam, set up an Azure student lab tenant with Entra ID and Conditional Access, and configure basic Microsoft Sentinel KQL log ingestion.
+**60 days:** Build and publish an Infrastructure as Code (IaC) GitHub repository using Terraform/Bicep for Azure Firewall and NSG perimeters, and complete AZ-500 self-study modules.
+**90 days:** Refine 5 STAR-formatted interview stories based on internship accomplishments (Splunk to CrowdStrike query migration, Azure AD controls) and apply for SOC Analyst Tier I and Associate Cloud Security Engineer roles.
 
 ## 8. Reflection
-1. What was the most useful thing my AI coach did?
-2. What was one limitation or mistake I discovered?
-3. How could this assistant help someone in a real job?
-4. What would I improve in a future version?
+1. What was the most useful thing my AI coach did? Synthesizing my actual resume bullet points against official Azure job postings and NIST CSF 2.0 to deliver personalized, evidence-backed skills gap audits and verbal interview scripts.
+2. What was one limitation or mistake I discovered? Naive prompt instructions produced Python code prone to display name email spoofing and syntax errors, proving that AI outputs must always be audited by a human with domain knowledge.
+3. How could this assistant help someone in a real job? It acts as an interactive, on demand SOC mentor that helps security analysts draft incident response playbooks, automate log triage scripts, and translate complex technical findings into executive briefings.
+4. What would I improve in a future version? Integrate custom KQL and Terraform validation scripts directly into the assistant's reference corpus to automatically test and lint cloud infrastructure code.
 
 ## 9. Skills Demonstrated
 - Prompt engineering
