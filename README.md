@@ -29,7 +29,7 @@ I used NotebookLM to analyze these resources and provide source-grounded career 
 **My prompt:** What skills am I missing for a cloud security role? Base your answer on my resume and the job description. Separate skills I clearly have, skills I may have but haven't demonstrated, and skills I appear to be missing. Point me to the evidence for each.
 
 **What the AI helped me understand:**
-The assistant performed a structured audit comparing my resume against the Azure job posting. It highlighted that while I clearly possess **Identity &amp; Access Management (Entra ID, MFA, Conditional Access)** and **SIEM Operations (Splunk, CrowdStrike Falcon)**, I have critical engineering gaps in **Microsoft Sentinel (KQL)**, **Azure Infrastructure Controls (Azure Firewall, NSGs, Key Vault)**, and **Infrastructure as Code (Terraform/Bicep)**.
+The assistant performed a structured audit comparing my resume against the Azure job posting. It highlighted that while I clearly possess Identity &amp; Access Management (Entra ID, MFA, Conditional Access) and SIEM Operations (Splunk, CrowdStrike Falcon), I have critical engineering gaps in Microsoft Sentinel (KQL), Azure Infrastructure Controls (Azure Firewall, NSGs, Key Vault), and Infrastructure as Code (Terraform/Bicep).
 
 
 <img width="1512" height="982" alt="Screenshot 2026-11-05 at 3 07 31 PM" src="https://github.com/user-attachments/assets/c4260735-5c52-41ad-bcab-3691db2fa052" />
